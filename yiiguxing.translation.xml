@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Caused" />
+      <item value="create" />
+      <item value="BIG" />
+      <item value="Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement 1 of URL [file:C:UsersharutIdeaProjectsSpringHelloWorldbuildresourcesmainschema.sql]: create table issues(; nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: SQL�X�e�[�g�����g�ɕ��@�G���[������܂� &quot;CREATE TABLE ISSUES([]&quot;; ���҂����X�e�[�g�����g &quot;identifier&quot;" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="5" />
+        <entry key="JAPANESE" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1651982301256" />
+  </component>
+</application>
