@@ -2,6 +2,18 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="OdpsStudio">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.haojiyou.CodeGlance3">
           <value>
             <PluginData>
@@ -30,6 +42,17 @@
           </value>
         </entry>
         <entry key="com.mnw.stickyselection">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.tabnine.TabNine">
           <value>
             <PluginData>
               <option name="dependencies">
